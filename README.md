@@ -13,4 +13,4 @@ Improved code readability by separating
 
 chuckapi_alwaysdata_js is a beta version using an existant api and database server (only html/js/css data manipulation)
 
-v1 / v2 / v3 /... are self-made api codes in php with database manipulation to implements CRUD operations.
+chuckapietu/v1 / v2 / v3 /... are self-made api codes in php with database manipulation to implements CRUD operations.
